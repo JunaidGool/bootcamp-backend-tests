@@ -1,4 +1,4 @@
-const yearsAgo = require('./yearsAgo');
+const yearsAgo = require('../yearsAgo');
 const assert = require('assert');
 
 describe('yearsAgo function', function(){

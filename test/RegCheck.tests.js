@@ -1,4 +1,4 @@
-const regCheck = require('./RegCheck');
+const regCheck = require('../RegCheck');
 const assert = require('assert');
 
 

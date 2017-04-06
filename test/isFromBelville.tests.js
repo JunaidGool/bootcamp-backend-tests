@@ -1,4 +1,4 @@
-const isFromBelville = require('./isFromBelville');
+const isFromBelville = require('../isFromBelville');
 const assert = require('assert');
 
 

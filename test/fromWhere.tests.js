@@ -1,4 +1,4 @@
-const fromWhere = require('./fromWhere');
+const fromWhere = require('../fromWhere');
 const assert = require('assert');
 
 describe('fromWhere function', function(){

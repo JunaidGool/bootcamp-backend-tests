@@ -1,4 +1,4 @@
-const countRegNumber = require('./regCount');
+const countRegNumber = require('../regCount');
 const assert = require('assert');
 
 describe('countRegNumber function', function(){

@@ -1,4 +1,4 @@
-const isWeekday = require('./isWeekDay');
+const isWeekday = require('../isWeekDay');
 const assert = require('assert');
 
 describe('isWeekday function', function(){
