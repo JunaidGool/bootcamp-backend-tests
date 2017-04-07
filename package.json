@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp-backend-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AllFromTown.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunaidGool/bootcamp-backend-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunaidGool/bootcamp-backend-tests/issues"
+  },
+  "homepage": "https://github.com/JunaidGool/bootcamp-backend-tests#readme"
+}
